@@ -18,7 +18,7 @@ A local AI-powered agent that answers natural language questions using PostgreSQ
 
 postgres-agent-ai/
 │
-├── backend/ # Node.js server with LangChain + Ollama agent
+├── ai-backend/ # Node.js server with LangChain + Ollama agent
 │ └── agent.js
 │ └── db.js
 │ └── server.js
