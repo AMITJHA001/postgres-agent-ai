@@ -28,3 +28,5 @@ postgres-agent-ai/
 │ └── components/
 │ └── App.vue
 │ └── main.js
+├── README.md
+├── table_dummy_data.csv
